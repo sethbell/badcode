@@ -1,0 +1,6 @@
+namespace BadApi.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
